@@ -1,1 +1,1 @@
-##react 和flux的denmo
+##react 和flux的demo
